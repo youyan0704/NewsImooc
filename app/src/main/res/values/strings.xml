@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsImooc</string>
+    <string name="url">http://www.imooc.com/api/teacher?type=4&amp;num=30</string>
+</resources>
